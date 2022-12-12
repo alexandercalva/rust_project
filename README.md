@@ -1,30 +1,33 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I developed some basic examples of how the Rust programming language works.
+* Variables (mutable and unumutable)
 
-{Provide a description the software that you wrote to demonstrate the Rust language.}
+* Expressions
 
-{Describe your purpose for writing this software.}
+* Conditionals
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
+* Loops
 
-[Software Demo Video](http://youtube.link.goes.here)
+* Functions (ownership or reference)
+
+I wrote some examples of using mutable and immutable variables, expressions, conditionals, and loops. All this by calling functions created for each part respectively.
+
+[Software Demo Video](https://youtu.be/OQeai8-78X4)
 
 # Development Environment
+* The Rust language with its dependencies.
+* Visual Studio Code.
+* C++ Build Tools
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Rust](https://www.rust-lang.org/tools/install)
+
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Create a program in Rust as a server.
+* Create an API
+
