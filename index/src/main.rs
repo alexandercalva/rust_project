@@ -3,7 +3,7 @@ fn main()
    variables();
    expression();
    conditionals();
-   loop();
+   loops();
 }
 
 fn expression()
@@ -76,7 +76,7 @@ fn variables()
     println!("{} -> {}", n, big_n);
  }
  
- fn loop()
+ fn loops()
  {
     let mut count = 0u32;
 
